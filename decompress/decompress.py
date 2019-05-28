@@ -19,9 +19,3 @@ def print_text(value,num):
         get_text = get_text + value 
     return get_text
 
-   
-    
-# ex =  "2[as]3[fp]4[eoirere]12[yu]"
-
-# print("input : " + ex)
-# print("output : " + decompress(ex))
