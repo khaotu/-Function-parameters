@@ -40,7 +40,7 @@ list_fruit =["apple",
 "raspberry",
 "tangerine"]
 
-def hello(word):
+def return_index(word):
     get_indexes = lambda find_word, data: [i for (y, i) in zip(data, range(len(data))) if find_word == y]
     index = get_indexes(word,list_fruit)
     if(index==[]):
