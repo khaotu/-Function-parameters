@@ -1,5 +1,4 @@
 import re
-import threading
 def decompress(text):
     result = ''
     cutting = re.split("\]",text)
