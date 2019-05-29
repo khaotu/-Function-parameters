@@ -6,3 +6,5 @@
 ## NO2 Decompress string :
     * cd decompress
     * python index.py
+    Mutithread
+        python Mutithread.py
